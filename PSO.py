@@ -1,9 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[1]:
-
-
 import numpy as np
 import matplotlib.pyplot as plt
 
@@ -97,14 +91,6 @@ print(holder_table_best_solution)
 print("Objective Value - Holder Table Function:")
 print(holder_table(holder_table_best_solution))
 
-
-# In[ ]:
-
-
-
-
-
-# In[ ]:
 
 
 
